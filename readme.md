@@ -1,9 +1,6 @@
 # How to Build Smart Contracts with 
 # Hyperledger Fabric: 
 
-# A Best Practice Guide 
-## CPL261
-
 ### Pre-requisites:
 - Docker [Windows](https://docs.docker.com/docker-for-windows/edge-release-notes/) [Mac](https://docs.docker.com/docker-for-mac/edge-release-notes/)
 - Docker Compose (Should be installed with Docker)
