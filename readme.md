@@ -8,7 +8,6 @@
 
 ### Setup
 - Clone this repository
-- Switch to `SAP Internet`, or any other connection outside of our SAP Proxy
 - Navigate to `hyperledger-fabric-stub/fabcar` and execute `./startFabric.sh` (This will download a bunch of docker containers and set them up)
 - Once the `startFabric` command is one, run `npm i`
 - Finally to start the server you have to run `npm start`
